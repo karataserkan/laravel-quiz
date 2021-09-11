@@ -12,6 +12,7 @@
 ``DB_PASSWORD=``
 - ``composer install``
 - ``php artisan migrate``
+- ``php artisan key:generate``
 - ``npm install``
 - ``npm run watch``
 - open new terminal and run ``php artisan serve``
